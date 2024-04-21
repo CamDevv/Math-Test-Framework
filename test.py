@@ -1,4 +1,4 @@
-# Created by Mr. CV2 :)
+# Created by Mr. CV2 :) - GitHub: https://github.com/CamDevv/Advanced-Math-Test
 
 import random
 import re
