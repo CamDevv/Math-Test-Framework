@@ -1,8 +1,8 @@
-John Doe:12345678:False
-Jane Doe:87654321:False
-
 # This is Python, boolians need to be camel case (camel case = first letter capital per word)
 
 # FORMAT: Name(colon)ID(colon)Completed Test Boolian (i cannot put colons or a type error will occur)
 
 # DO NOT MESS WITH THE COMPLETED TEST BOOLIAN UNLESS YOU WANT THE STUDENT TO BE ABLE TO COMPLETE THE TEST AGAIN.
+
+John Doe:12345678:False
+Jane Doe:87654321:False
