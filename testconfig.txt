@@ -1,7 +1,7 @@
 # Configuration for the Math Test
 
 How Many Questions On The Test: 10
-Test Focus: ADDITION #-# This needs to be all capital!
+Test Focus: ADDITION
 Range: 1,4
 Student ID Length: 8
 Completion Message: You have already completed the test. You cannot retake it.
