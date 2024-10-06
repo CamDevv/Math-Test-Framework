@@ -1,6 +1,6 @@
-# Math-Test-Framework
+# Advanced-Math-Test
 
-Welcome to Math Test Framework.
+Welcome to Advanced Math Test.
 This is a very customizable math test core.
 
 TEACHERS/ADMINS/ETC: You can use this at a school, but you should get an expert to customize this test FOR YOUR SCHOOL.
