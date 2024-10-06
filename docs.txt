@@ -1,4 +1,4 @@
-Documentation here! The files already have some documentation in them.
+Documentation here! The test configuration file has some useful documentation about it.
 
   So basically, scores are saved to scores.txt, students are in students.txt, and the configuration is in testconfig.txt.
     You can mess around with the code.
@@ -12,14 +12,14 @@ Documentation here! The files already have some documentation in them.
 
     SCORES (scores.txt)
     - Scores are saved to scores.txt after the user has completed the test.
-    - Thats it.
+    - If a student needs to retake a test, change "True" in the completed test boolian to "False".
 
     STUDENTS (students.txt)
     - Student data is saved here.
     - FORMAT: {name}:{student id}:{BOOLIAN - completed test or not}
     - Example: John Doe:12345555:False
-    - Make sure the bool is camel case.
+    - Make sure the boolian starts with a capital letter.
     - Make sure the name is camel case.
     - Make sure the Student ID is just numbers.
 
-    Thats it.
+    Thats it. Thanks for using Math Test Framework!
