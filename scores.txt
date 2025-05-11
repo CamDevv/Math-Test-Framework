@@ -1,5 +1,0 @@
-Once a test is completed, you will see the scores here.
-
-ALERT! MAKE SURE THERE IS ALWAYS A BLANK LINE AT THE BOTTEM OF THIS FILE OR TEST SCORES WILL PILE UP ON EACH OTHER ON 1 LINE!
-
-Student Name - Total Score - Questions Answered Correctly - Questions Answered Incorrectly - Time Taken - Range
