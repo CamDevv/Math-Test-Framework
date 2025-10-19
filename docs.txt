@@ -4,7 +4,7 @@ Documentation here! The test configuration file has some useful documentation ab
     You can mess around with the code.
 
     TEST CONFIGURATION (testconfig.txt)
-    - The Test Focus needs to be CAPITALISED
+    - The Test Focus needs to be CAPITALIZED
     - The range is the range of the first and second number of the equasion, if your range is 1,10 and you are on ADDITION, you would see questions like 5+2, 7+4, etc.
     - How many questions on the test configuration is self explanitory.
     - The completion message is what the user will see if they try to login to a student that already completed the test.
@@ -12,13 +12,13 @@ Documentation here! The test configuration file has some useful documentation ab
 
     SCORES (scores.txt)
     - Scores are saved to scores.txt after the user has completed the test.
-    - If a student needs to retake a test, change "True" in the completed test boolian to "False".
+    - If a student needs to retake a test, change "True" in the completed test boolean to "False".
 
     STUDENTS (students.txt)
     - Student data is saved here.
-    - FORMAT: {name}:{student id}:{BOOLIAN - completed test or not}
+    - FORMAT: {name}:{student id}:{BOOLEAN - completed test or not}
     - Example: John Doe:12345555:False
-    - Make sure the boolian starts with a capital letter.
+    - Make sure the boolean starts with a capital letter.
     - Make sure the name is camel case.
     - Make sure the Student ID is just numbers.
 
